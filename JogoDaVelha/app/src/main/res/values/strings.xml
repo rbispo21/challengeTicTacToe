@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jogo Da Velha</string>
+    <string name="msg_invalid_move">Jogada Invalida</string>
+    <string name="msg_win">"Você ganhou o jogo!"</string>
+    <string name="msg_loose">"você perdeu!"</string>
+    <string name="msg_draw">"O jogo empatou!"</string>
+</resources>
